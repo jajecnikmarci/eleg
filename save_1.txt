@@ -1,0 +1,60 @@
+En
+Person name: En, ID: 1982451
+1
+Regular
+2000-03-11
+2004-03-12
+2003-12-22
+0.00
+0.00
+0.00
+Alma Janos
+Person name: Alma Janos, ID: 123456uz
+1
+VIP
+2000-02-01
+2004-02-11
+2000-02-01
+111.00
+222.00
+333.00
+Belga Pali
+Person name: Belga Pali, ID: 762515ts
+1
+Regular
+2020-02-01
+2034-02-11
+2020-02-01
+444.00
+555.00
+666.00
+Cerna Botond
+Person name: Cerna Botond, ID: 926351os
+1
+Student
+2030-02-01
+2044-02-11
+2030-02-01
+777.00
+888.00
+999.00
+Anya ZRT.
+Company name: Anya ZRT., Tax ID: 24354769801
+1
+Premium
+2010-02-01
+2024-02-11
+2010-02-01
+123.00
+456.00
+789.00
+Algebra NYRT.
+Company name: Algebra NYRT., Tax ID: 90812514789
+1
+Corporate
+2003-02-01
+2005-02-11
+2003-02-01
+908.00
+343.00
+656.00

@@ -1,0 +1,22 @@
+Contract details:
+Seller details:
+Seller name: Company name: Meseorszagi Villamos Muvek ZRT., Tax ID: 10760798244
+Client name: En
+Client ID: Person name: En, ID: 1982451
+Contract type: Regular
+Contract start date: 2000-03-11
+Contract end date: 2004-03-12
+Last invoicing date: 2003-12-22
+Tariff: 0.00 Ft/KWh
+Balance: 0.00 Ft
+Consumption since last invoicing: 0.00 KWh
+
+Invoice details:
+Invoice date: 2004-02-14
+Previous balance: 0.00 Ft
+Tariff: 0.00 Ft/KWh
+Consumption: 0.00 KWh
+Subtotal: 0.00 Ft
+VAT (27.00%): 0.00 Ft
+Total: 0.00 Ft
+New balance: 0.00 Ft
